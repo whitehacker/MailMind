@@ -1,8 +1,8 @@
-# Getting Started with LLMs: Email Classifier
+# Email Classifier
 
 ![MailMind](gx/img.png)
 
-This basic project provides a simple and practical example of using Large Language Models (LLMs) like Llama 3 to build an AI-powered email classifier. It's a great starting point for students to understand how to leverage LLMs and develop their own AI agents or assistants.
+This basic project provides a simple and practical example of using Large Language Models (LLMs) like Llama 3 to build an AI-powered email classifier. It's a great starting point to understand how to leverage LLMs and develop their own AI agents or assistants.
 
 > ## Next Steps for Students 
 > You can extend this project into a powerful AI Office Assistant by integrating:
@@ -39,4 +39,4 @@ This basic project provides a simple and practical example of using Large Langua
 - Open you browser and visit: http://127.0.0.1:8000
 
 ## Contributing
-Students are encouraged to fork this project, add their features, and share improvements via pull requests. Let’s build smarter AI tools together!
+You are encouraged to fork this project, add their features, and share improvements via pull requests. Let’s build smarter AI tools together!
