@@ -39,4 +39,4 @@ This basic project provides a simple and practical example of using Large Langua
 - Open you browser and visit: http://127.0.0.1:8000
 
 ## Contributing
-You are encouraged to fork this project, add their features, and share improvements via pull requests. Let’s build smarter AI tools together!
+You are encouraged to fork this project, add your features, and share improvements via pull requests. Let’s build smarter AI tools together!
